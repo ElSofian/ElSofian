@@ -1,4 +1,4 @@
-# Hello!, I'm Sofian, a Fullstack Developer👋🏼
+# Hi! 👋🏼
 🔭 I’m currently working on [Calipso Dashboard](https://demo.calipso.me)<br>
 🌱 I’m learning Next.JS<br>
 ⚡ Searching for an Alternance !
