@@ -1,7 +1,5 @@
 # Hi! 👋🏼
 🔭 I’m currently working on [Calipso Dashboard](https://demo.calipso.me)<br>
-🌱 I’m learning Next.JS<br>
-⚡ Searching for an Alternance !
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg)](https://linkedin.com/in/SofianElaloui) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sofian.elaloui03@gmail.com) 
